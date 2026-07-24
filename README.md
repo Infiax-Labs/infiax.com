@@ -2,7 +2,7 @@
 
 Building digital products with a focus on Sri Lankan and South Asian audiences.
 
-## About
+## About us
 
 Infiax Labs is a small, independent software studio. We design and build apps, tools, and platforms aimed at solving real problems for local users — from entertainment and reading platforms to utility tools for everyday tasks.
 

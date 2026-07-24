@@ -6,7 +6,7 @@ Building digital products with a focus on Sri Lankan and South Asian audiences.
 
 Infiax Labs is a small, independent software studio. We design and build apps, tools, and platforms aimed at solving real problems for local users — from entertainment and reading platforms to utility tools for everyday tasks.
 
-## Flagship Project
+## Our Flagship Project
 
 ### 📖 Katha Arana
 A Flutter-based novel reading app supporting Sinhala and English, built with Riverpod and a Clean Architecture approach, backed by Supabase and Cloudflare R2 for storage.
